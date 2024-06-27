@@ -78,4 +78,12 @@
   .header .action {
     margin-left: 49px;
   }
-  
+
+/* =============================================hero============================================== */
+.hero{
+  margin-top: 56px;
+  background-color: #fffcf4;
+}
+.hero .body{
+  display: flex;
+}
